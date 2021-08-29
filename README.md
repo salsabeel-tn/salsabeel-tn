@@ -2,10 +2,8 @@
 
 This is Salsabeel Tantoush. I am a software engineering student. 💻
 
-[![Salsabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salsabeel&theme=tokyonight&show_icons=true)](https://github.com/salsabeel-tn/github-readme-stats)
-
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=salsabeel-tn&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabeel-tn&hide=TeX&layout=compact)
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
