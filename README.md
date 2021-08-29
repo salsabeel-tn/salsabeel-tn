@@ -52,7 +52,5 @@ This is Salsabeel Tantoush. I am a software engineering student. 💻
 
 ## 🔍  Where to find me
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salsabeel-tantoush-7962a3192/)
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
-
+[![quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Salsabeel-Tn)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](788423517334274120)
