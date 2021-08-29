@@ -2,7 +2,8 @@
 
 This is Salsabeel Tantoush. I am a software engineering student. 💻
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+![Salsabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salsabeel&theme=tokyonight&show_icons=true)
+
 
 ## 🛠  Technologies and tools
 
