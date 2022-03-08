@@ -34,15 +34,15 @@ This is Salsabeel Tantoush. I am a software engineering student. 💻
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=Flutter&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![openCv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ## 👾  What I am interested in learning at some point
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)<br>
 ## 📊 my github stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=salsabeel-tn&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)<br>
