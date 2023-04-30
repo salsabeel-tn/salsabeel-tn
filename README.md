@@ -1,6 +1,5 @@
 ### Ola 👋 ! 
 
-This is Salsabeel Tantoush. I am a software engineering student. 💻
 
 ## 🛠  languages in use
 
