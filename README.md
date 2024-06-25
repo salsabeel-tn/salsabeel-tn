@@ -27,7 +27,6 @@
 ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)<br>
 ## 📊 my github stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=salsabeel-tn&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabeel-tn&hide=TeX&theme=tokyonight&layout=compact)
 ## 🔍  Where to find me
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salsabeel-tantoush-7962a3192/)
 [![quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Salsabeel-Tn)
