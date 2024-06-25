@@ -5,7 +5,7 @@
 
 <a name="learning-now"></a>
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/javaSript-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📖  What I am currently learning / improving on
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
